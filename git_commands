@@ -1,0 +1,21 @@
+
+git clone url
+git status           
+
+ls               #list all files in that directory 
+cd          # change to desired directory 
+
+git branch -a 
+git branch branchname
+git switch branchname
+git push origin branchname                  #to push a newly created branch
+git switch branchname filename filename         #to copy specific file from one branch to onother
+
+touch 
+nano 
+rm     #remove file 
+
+git add . / git add filename.extention
+git commit -m "commit message"
+git push
+git mv oldfolder newfolder
